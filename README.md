@@ -231,7 +231,7 @@ z_t (16, 16, 4)
 
 ![img.png](img.png) 
 #### 添加胡子前
-![000032.jpg](../archive%20%281%29/img_align_celeba/000032.jpg)
+![000032.jpg](000032.jpg)
 
 ## 运行使用
 ``` 
